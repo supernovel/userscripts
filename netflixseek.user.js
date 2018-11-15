@@ -25,7 +25,6 @@
       seekAmount: DEFAULT_SEEK_AMOUNT
     };
 
-    // Credits to Venryx @ https://stackoverflow.com/questions/29321742/react-getting-a-component-from-a-dom-element-for-debugging
     function findReact(dom) {
       for (var key in dom) {
         if (key.startsWith("__reactInternalInstance$")) {
