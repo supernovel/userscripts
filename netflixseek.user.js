@@ -3,9 +3,9 @@
 // @namespace       http://tampermonkey.net/
 // @copyright       2018, supernovel
 // @license         MIT; https://opensource.org/licenses/MIT
-// @homepageURL     https://github.com/supernovel/netflixSeek
+// @homepageURL     https://github.com/supernovel/userscripts
 // @icon            https://www.netflix.com/favicon.ico
-// @updateURL       https://openuserjs.org/meta/yasinuslu/Netflix_Seeker.meta.js
+// @updateURL       https://raw.githubusercontent.com/supernovel/userscripts/master/netflixseek.user.js
 // @version         0.0.1
 // @description     fast-forward, fast-backward with arrow keys in netflix player
 // @author          supernovel
